@@ -1,0 +1,9 @@
+#!/usr/bin/env Rscript
+OUT <- "data/gnd.json"
+if(file.exists(OUT)) {
+  removed <- file.remove(OUT)
+}
+paths <- list.files("data", pattern="\\.json", full.names=TRUE)
+identifiers <- sapply(paths, jsonlite::read_json)
+identifiers <- unique(unlist(identifiers))
+jsonlite::write_json(identifiers, OUT, pretty=TRUE)

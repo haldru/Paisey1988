@@ -1,0 +1,373 @@
+{
+  "4421561-7": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@type": "organisation",
+    "@id": "https://d-nb.info/gnd/4421561-7",
+    "preferredName": "Institutum Judaicum Halle (Saale)",
+    "describedBy": {
+      "valid": "2020-08-10T22:58:47Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/4421561-7"
+    },
+    "variantName": [
+      "Institutum Judaicum. Halle (Saale)",
+      "Institutum Judaicum et Muhammedicum",
+      "Buchdruckerey des jüdischen Instituti (Halle (Saale))",
+      "Buchdruckerey des jüdischen Instituts (Halle (Saale))",
+      "Buchdruckerei des jüdischen Instituts (Halle (Saale))"
+    ],
+    "dateOfEstablishment": [
+      "1728"
+    ],
+    "dateOfTermination": [
+      "1792"
+    ],
+    "founder": [
+      {
+        "@id": "https://d-nb.info/gnd/104160055",
+        "preferredName": "Johann Heinrich Callenberg"
+      }
+    ],
+    "placeOfBusiness": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedPlace": [
+      {
+        "@id": "https://d-nb.info/gnd/4051181-9",
+        "preferredName": "Sachsen-Anhalt"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE-ST",
+        "preferredName": "Sachsen-Anhalt"
+      }
+    ],
+    "isA": [
+      {
+        "@id": "https://d-nb.info/gnd/4017909-6",
+        "preferredName": "Forschungseinrichtung"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4133333-0",
+        "preferredName": "Druckerei"
+      }
+    ],
+    "topic": [
+      {
+        "@id": "https://d-nb.info/gnd/4135180-0",
+        "preferredName": "Bibelwissenschaft"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/4421561-7/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/organization/gnd/4421561-7",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/243845299",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q1534941",
+        "collection": {
+          "abbr": "WIKIDATA",
+          "name": "Wikidata",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://www.wikidata.org/static/favicon/wikidata.ico"
+        }
+      }
+    ]
+  },
+  "1249424-0": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@type": "organisation",
+    "@id": "https://d-nb.info/gnd/1249424-0",
+    "preferredName": "Neue Buchhandlung (Halle (Saale))",
+    "describedBy": {
+      "valid": "2020-08-10T22:58:48Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1249424-0"
+    },
+    "variantName": [
+      "Novum Bibliopolium (Halle (Saale))",
+      "Bibliopolium Novum (Halle (Saale))"
+    ],
+    "placeOfBusiness": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DXDE",
+        "preferredName": "Deutschland, Deutsches Reich"
+      }
+    ],
+    "isA": [
+      {
+        "@id": "https://d-nb.info/gnd/4008626-4",
+        "preferredName": "Buchhandel"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4063004-3",
+        "preferredName": "Verlag"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1249424-0/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/organization/gnd/1249424-0",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/136996454",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "2133444-4": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@type": "organisation",
+    "@id": "https://d-nb.info/gnd/2133444-4",
+    "preferredName": "Franckesche Stiftungen zu Halle. Waisenhaus",
+    "describedBy": {
+      "valid": "2020-08-10T22:58:48Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/2133444-4"
+    },
+    "variantName": [
+      "Waisenhaus",
+      "Wäysenhaus (Halle, Saale)",
+      "Wäysen-Hauß (Halle, Saale)",
+      "Waysenhaus",
+      "Weysenhaus",
+      "Waisenhaus zu Halle",
+      "Hallesches Waisenhaus",
+      "Hallisches Waisenhaus",
+      "Hallisches Waysenhaus",
+      "Hällisches Waisenhaus",
+      "Hällisches Waysenhaus",
+      "Hällisches Wäysenhaus",
+      "Wäisenhaus zu Glaucha an Halle",
+      "Wäysen-Haus zu Glaucha an Halle",
+      "Waysen-Haus zu Glaucha an Halle",
+      "Wäysen-Hause zu Glaucha an Halle",
+      "Wäysen-Hauße zu Glaucha an Halle",
+      "Wäysen Haus zu Glaucha an Halle",
+      "Wäysenhauß zu Glaucha an Halle",
+      "Wåysenhaus zu Glaucha an Halle",
+      "Wäysenhause zu Glaucha an Halle",
+      "Orphanotropheus Glaucha-Halensis",
+      "Orphanotrophium Glaucha-Halensis",
+      "Orphanotropheon Glaucha-Halensis",
+      "Orphanotropheum Glaucha-Halensis",
+      "Orphanodochium Glaucha-Halensis",
+      "Orphanodochius Glaucha-Halensis",
+      "Orphanotropheion Glaucha-Halensis",
+      "Orphanhouse at Glaucha near Hall",
+      "Casa degli Orfanelli",
+      "Maison des Orphelins",
+      "Verlag des Erziehungsinstitutes",
+      "Verlag des Erziehungsinstituts",
+      "Waysenhäusische Schriften",
+      "Sumtibus Orphanotropheum",
+      "Sumtibus Orphanotrophii",
+      "Waisenhaus-Buchhandlung (Halle, Saale)",
+      "Waysenhaus-Buchhandlung (Halle, Saale)",
+      "Buch-Laden des Wäysen-Hauses (Halle, Saale)",
+      "Buchladen des Waisenhauses (Halle, Saale)",
+      "Buchladen des Waysenhauses (Halle, Saale)",
+      "Buchdruckerei des Waisenhauses (Halle, Saale)",
+      "Buchhandlung des Waisenhauses (Halle, Saale)",
+      "Buchh. des Waisenhauses (Halle, Saale)",
+      "Verlag der Buchhandlung des Waisenhauses (Halle, Saale)",
+      "Verlag der Waisenhaus-Buchhandlung (Halle)",
+      "Verlag des Waisenhauses (Halle)",
+      "Verlag des Wäysenhauses (Halle)",
+      "Casa degli Orfanelli (Halle, Saale)",
+      "Libraria Orphanotrophei (Halle, Saale)",
+      "Librarie de la Maison des Orphelins (Halle)",
+      "Buchhandlungen des Halleschen Waisenhauses",
+      "Buchhandlungen des Hallischen Waisenhauses",
+      "Buchhandlung des Hallischen Waisenhauses",
+      "Litterae Orphanotrophei (Halle, Saale)",
+      "Typi Orphanotrophei (Halle, Saale)",
+      "Litteris Orphanotrophei (Halle, Saale)",
+      "Litteris Orphanotrophei Glauchensis (Halle-Glaucha)",
+      "Typis Orphanotrophei (Halle, Saale)",
+      "Impensis Orphanotrophei",
+      "Waysenhausische Schriften (Halle, Saale)",
+      "Officina Orphanotrophei (Halle, Saale)",
+      "Franckens Laden (Halle, Saale)",
+      "Schriften des Waisenhauses"
+    ],
+    "dateOfEstablishment": [
+      "XX.04.1701"
+    ],
+    "dateOfTermination": [
+      "XX.XX.1945"
+    ],
+    "placeOfBusiness": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1053698410",
+        "preferredName": "Halle-Glaucha"
+      }
+    ],
+    "associatedPlace": [
+      {
+        "@id": "https://d-nb.info/gnd/4051181-9",
+        "preferredName": "Sachsen-Anhalt"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DXDE",
+        "preferredName": "Deutschland, Deutsches Reich"
+      },
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE-ST",
+        "preferredName": "Sachsen-Anhalt"
+      }
+    ],
+    "isA": [
+      {
+        "@id": "https://d-nb.info/gnd/4139280-2",
+        "preferredName": "Waisenhaus"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4145467-4",
+        "preferredName": "Bildungseinrichtung"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4008626-4",
+        "preferredName": "Buchhandel"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4063004-3",
+        "preferredName": "Verlag"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/7743132-7",
+        "preferredName": "Schnell-&-Steiner-Kulturpreis Kunst und Ethos"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4133333-0",
+        "preferredName": "Druckerei"
+      }
+    ],
+    "biographicalOrHistoricalInformation": "Gegründet von August Hermann Francke.",
+    "successor": [
+      {
+        "@id": "https://d-nb.info/gnd/10189848-4",
+        "preferredName": "Franckesche Stiftungen zu Halle. Historisches Waisenhaus"
+      }
+    ],
+    "isPartOf": [
+      {
+        "@id": "https://d-nb.info/gnd/2040596-0",
+        "preferredName": "Franckesche Stiftungen zu Halle"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/2133444-4/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://kalliope-verbund.info/gnd/2133444-4",
+        "collection": {
+          "abbr": "DE-611",
+          "name": "Kalliope Verbundkatalog",
+          "publisher": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/organization/gnd/2133444-4",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://id.loc.gov/rwo/agents/n82012523",
+        "collection": {
+          "abbr": "LC",
+          "name": "NACO Authority File",
+          "publisher": "Library of Congress",
+          "icon": "http://www.loc.gov/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/0000000115160056",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/125506166",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  }
+}

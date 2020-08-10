@@ -1,0 +1,14 @@
+PackratFormat: 1.4
+PackratVersion: 0.5.0
+RVersion: 4.0.2
+Repos: CRAN=https://cran.uni-muenster.de
+
+Package: jsonlite
+Source: CRAN
+Version: 1.7.0
+Hash: dec188bcfae1bb0fba6731c9aee6a9d2
+
+Package: packrat
+Source: CRAN
+Version: 0.5.0
+Hash: 498643e765d1442ba7b1160a1df3abf9
