@@ -8,4 +8,4 @@
 
 ## Quellengrundlage
 
-> David L. Paisey, _Deutsche Buchdrucker, Buchhändler und Verleger: 1701–1750_. Wiesbaden: Harrassowitz, 1988. (= Beiträge zum Buch- und Bibliothekswesen 26).
+> David L. Paisey, _Deutsche Buchdrucker, Buchhändler und Verleger: 1701–1750_. Wiesbaden: Harrassowitz, 1988. (= Beiträge zum Buch- und Bibliothekswesen 26)
