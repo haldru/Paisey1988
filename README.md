@@ -1,4 +1,4 @@
-# GND-Nummern zu halleschen Buchdruckern, Buchhändlern und Verlegern: 1701–1750
+# GND-Nummern von halleschen Buchdruckern, Buchhändlern und Verlegern: 1701–1750
 
 > [`data/gnd.json`](./data/gnd.json)
 
